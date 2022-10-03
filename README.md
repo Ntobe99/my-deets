@@ -1,1 +1,2 @@
-# my-deets
+# my-details
+Nontobeko Mhlongo
